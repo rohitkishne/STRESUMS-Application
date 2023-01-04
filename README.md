@@ -8,7 +8,12 @@ Contains two Main Panel
 2. Student Panel
 
 # DataBase Handling :
---> Using a MySql Software to managing the data.
+-->Using a MySql Software to managing the data.
 --> Using SQL language to retrieve and manipulating of data.
+
+# Libraries :
+Contains two libraries 
+1. mysql.connector-j-8.0.31.jar
+2. rs2xml.jar
 
 
