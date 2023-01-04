@@ -1,6 +1,8 @@
 # STRESUMS-Application
 This application is managing the whole data of student that includes details of the student &amp; their results, and manage by administration of school, college and universities.
 
+# Build Tool :
+--> Java Ant
 
 # Components :
 Contains two Main Panel 
